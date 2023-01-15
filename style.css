@@ -1,0 +1,81 @@
+body{
+    background-color: gray;
+}
+header{
+    background-image: url(kek_eg.jpg);
+    background-repeat: repeat;
+    height: 160px;
+}
+#focim{
+    color: yellow;
+    text-align: center;
+    font-size: 40px;
+}
+#motto{
+    text-align: center;
+    padding: 50px;
+}
+#wrapper{
+    background-color: white;
+}
+#menu{
+    background-image: url(menu_hatter.png);
+    height: 30px;
+    padding-left: 400px;
+    padding-right: 400px;
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+#szolgaltatasok_nav{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#udvozles{
+    text-align: center;
+}
+.kek{
+    color: blue;
+}
+main{
+    padding: 40px;
+}
+.li-style-none{
+    list-style-type: none;
+}
+.fs-b{
+    font-size: x-large;
+}
+#bicikli{
+    float: right;
+    height: 400px;
+    width: 300px;
+}
+#kapcs_cim{
+    text-align: center;
+    font-size: 50px;
+}
+.fs-l{
+    font-size: 25px;
+}
+.text_input{
+    width: 1000px;
+}
+#szolgal_cim{
+    text-align: center;
+    font-size: 50px;
+}
+td{
+    width: 190px;
+}
+.tablazat{
+    padding-left: 40px;
+}
+#kuld{
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+}
